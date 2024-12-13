@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674153279612?e=1739404800&v=beta&t=lH7Eg8akIL49nJKQBm4E8o7eVMIT4SbP26W5R5jkeXg)
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">You live in Istanbul and are progressing towards becoming a Java developer</h3>
+<h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
 
 - 📫 Email Adresim = **batuhanyalcin5834@gmail.com**
 
