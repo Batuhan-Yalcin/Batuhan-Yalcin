@@ -4,7 +4,8 @@
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
 
 - 📫 Email Adresim = **batuhanyalcin5834@gmail.com**
-https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910
+- <h3>https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
