@@ -4,6 +4,7 @@
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
 
 - 📫 Email Adresim = **batuhanyalcin5834@gmail.com**
+- 📫 Linkedin Linkim = **https://www.linkedin.com/in/batuhan-yalcin58/**
 - <h3>https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910</h3>
 
 
