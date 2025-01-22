@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
 
-- 📫 Kendi Web Sitem := **https://batununyazilimyolculugu.com.tr**
+- 📫 Kendi Web Sitem := **https://batununyazilimyolculugu.com.tr/**
 - 📫 Email Adresim = **batuhanyalcin5834@gmail.com**
 - 📫 Linkedin Linkim = **https://www.linkedin.com/in/batuhan-yalcin58/**
 - <h3>https://bionluk.com/batuhanyalcin58/istediginiz-web-sitesini-kurabilirim-739916</h3>
