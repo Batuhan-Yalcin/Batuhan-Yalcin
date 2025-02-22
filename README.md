@@ -1,4 +1,4 @@
-[![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
+[![MasterHead](https://siberci.com/wp-content/uploads/2020/03/2020-yili-programlama-dilleri-1024x640.jpeg)
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
