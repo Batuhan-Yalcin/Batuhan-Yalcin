@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674153279612?e=1739404800&v=beta&t=lH7Eg8akIL49nJKQBm4E8o7eVMIT4SbP26W5R5jkeXg)
+[![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674153279612?e=1739404800&v=beta&t=lH7Eg8akIL49nJKQBm4E8o7eVMIT4SbP26W5R5jkeXg](https://www.hypernet.com.tr/dimg/icerik/293732243425900284632.png))
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
