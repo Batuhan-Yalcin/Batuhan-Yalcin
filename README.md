@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
 
-- 📫 Kendi Web Sitem := **https://batununyazilimyolculugu.com.tr/**
-- 📫 Email Adresim = **batuhanyalcin5834@gmail.com**
-- 📫 Linkedin Linkim = **https://www.linkedin.com/in/batuhan-yalcin58/**
+- 📫 My website := **https://batununyazilimyolculugu.com.tr/**
+- 📫 My Email Adress = **batuhanyalcin5834@gmail.com**
+- 📫 My Linkedin link = **https://www.linkedin.com/in/batuhan-yalcin58/**
 <h1 align="center">The professional services I provide :</h1>
 - <h3>https://bionluk.com/batuhanyalcin58/istediginiz-web-sitesini-kurabilirim-739916</h3>
 - <h3>https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910</h3>
