@@ -1,4 +1,4 @@
-![MasterHead]([https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/298348341/original/aa6d5f40d8d051d634d229937e6531dadf3db65f/provide-support-and-development-for-react-and-java.png](https://media.licdn.com/dms/image/v2/D4E0BAQH28rBoM-V6Ug/company-logo_100_100/B4EZpOXPZrGoAU-/0/1762251307386/aianabasis_logo?e=1764201600&v=beta&t=_fJCL5qtGYzS9ncXVjKWBbCl9QpdR-zcRuxXsX6kAQ0)
+![MasterHead]([https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png))
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
