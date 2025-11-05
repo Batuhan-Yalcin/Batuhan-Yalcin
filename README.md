@@ -1,4 +1,4 @@
-![MasterHead]([https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png))
+![MasterHead](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
