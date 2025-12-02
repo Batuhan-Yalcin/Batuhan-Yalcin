@@ -41,7 +41,7 @@
   <a href="https://instagram.com/batuhan.yalcin58" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
-  <a href="https://www.youtube.com/@batuhan" target="_blank">
+  <a href="https://www.youtube.com/@Birlikte-Kodlayalim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
   <a href="https://discord.com" target="_blank">
