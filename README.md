@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 - 🔥 Focused on **Java, Spring Boot, React, REST APIs, AI Integrations**  
 - 🧠 Always improving myself with 6–7 hours of daily coding  
-- 🌍 Developer at **HealthFintel – Full Stack / API Integrations / AI Systems**  
+- 🌍 Developer at **AIAnabasis – Full Stack / API Integrations / AI Systems**  
 - 🎯 Building: **AIAnabasis — AI-powered CV & Job Analysis Platform**
 
 ---
