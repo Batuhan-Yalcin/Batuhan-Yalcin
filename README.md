@@ -1,4 +1,4 @@
-![MasterHead](https://aianabasis.com/anabasis-logo-v2.png)
+![MasterHead](https://aianabasis.com/anabasis112px-logo-v2.png)
 
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I live in Istanbul and I am progressing towards becoming a Java developer.</h3>
