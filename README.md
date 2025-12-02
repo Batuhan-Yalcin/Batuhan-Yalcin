@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://aianabasis.com/anabasis112px-logo-v2.png" width="180" alt="Anabasis Logo">
+  <img src="https://aianabasis.com/anabasis-logo-v2.png" width="180" height="100" alt="Anabasis Logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Batuhan Yalçın</h1>
