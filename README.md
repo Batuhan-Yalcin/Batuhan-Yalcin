@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 My Links  
-📌 **Website:** https://aianabasis.com
+📌 **Website:** **https://aianabasis.com**
 📌 **LinkedIn:** https://www.linkedin.com/in/batuhan-yalcin58/  
 📌 **Email:** batuhanyalcin5834@gmail.com  
 
