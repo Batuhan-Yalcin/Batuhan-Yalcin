@@ -4,28 +4,32 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Batuhan Yalçın</h1>
-<h3 align="center">Full Stack Developer • Java & Spring Boot Specialist • Istanbul</h3>
+<h3 align="center">Full Stack Developer • Java & Spring Boot • Istanbul</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔥 Focused on **Java, Spring Boot, React, REST APIs, AI Integrations**  
-- 🧠 Always improving myself with 6–7 hours of daily coding  
-- 🌍 Developer at **AIAnabasis – Full Stack / API Integrations / AI Systems**  
-- 🎯 Building: **AIAnabasis — AI-powered CV & Job Analysis Platform**
+- 🔥 Focused on **Java, Spring Boot, React, AI-powered systems & REST APIs**  
+- 👨‍💻 Founder of **AIAnabasis.com — AI-powered CV & Job Analysis Platform**  
+- 💡 Building ATS-friendly CV analysis, job matching, interview AI, repo analyzer & website builder  
+- 🎯 Working daily on scalable backend & AI integrations  
 
 ---
 
 ## 🌐 My Links  
-📌 **Website:** **https://aianabasis.com**
+📌 **Website:** https://batununyazilimyolculugu.com.tr/  
+📌 **AIAnabasis:** https://aianabasis.com/  
 📌 **LinkedIn:** https://www.linkedin.com/in/batuhan-yalcin58/  
 📌 **Email:** batuhanyalcin5834@gmail.com  
 
 ---
 
 ## 💼 Professional Services  
-- 🔧 **Custom Website Development** — https://bionluk.com/batuhanyalcin58/istediginiz-web-sitesini-kurabilirim-739916  
-- 🎓 **Java & C# Private Lessons** — https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910  
+- 🔧 **Custom Website Development**  
+  https://bionluk.com/batuhanyalcin58/istediginiz-web-sitesini-kurabilirim-739916  
+
+- 🎓 **Java & C# Private Lessons**  
+  https://bionluk.com/batuhanyalcin58/Java-ve-C-Egitimi-veriyorum-731910  
 
 ---
 
