@@ -17,8 +17,8 @@
 ---
 
 ## 🌐 My Links  
-📌 **Website:** https://batununyazilimyolculugu.com.tr/  
 📌 **AIAnabasis:** https://aianabasis.com/  
+📌 **Seo Aracı Spindora :** https://www.spindorai.com/  
 📌 **LinkedIn:** https://www.linkedin.com/in/batuhan-yalcin58/  
 📌 **Email:** batuhanyalcin5834@gmail.com  
 
